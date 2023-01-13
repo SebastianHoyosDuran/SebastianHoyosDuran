@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Front End Development and CI/CD**
 
-- 💬 Ask me about **POM , Screenplay , Java , Selenium, Cucumber**
+- 💬 Ask me about **POM , Screenplay , Java , Selenium, Cucumber , JS , Puppeteer , AWS Canary**
 
 - 📫 How to reach me **sebastianhoyosduran@gmail.com**
 
